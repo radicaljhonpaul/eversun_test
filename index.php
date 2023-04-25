@@ -8,20 +8,20 @@
             
             <div class="d-flex flex-wrap flex-row">
                 <div class="col-12">
-                    <h5 class="text-primary">Part 1</h5>
+                    <h5 class="text-primary">Part 1 : Fewer loops = better</h5>
 
                     <div class="d-flex flex-wrap flex-column align-items-end">
                         <div class="py-1 px-5">
-                            <a href="task/part1/excercise-1.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 1</a>
+                            <a href="task/part-1/excercise-1.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 1</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part1/excercise-2.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 2</a>
+                            <a href="task/part-1/excercise-2.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 2</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part1/excercise-3.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 3</a>
+                            <a href="task/part-1/excercise-3.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 3</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part1/excercise-4.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 4</a>
+                            <a href="task/part-1/excercise-4.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 4</a>
                         </div>
                         
                     </div>
@@ -32,22 +32,22 @@
 
                     <div class="d-flex flex-wrap flex-column align-items-end">
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-1.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 1</a>
+                            <a href="task/part-2/excercise-1.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 1</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-2.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 2</a>
+                            <a href="task/part-2/excercise-2.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 2</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-3.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 3</a>
+                            <a href="task/part-2/excercise-3.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 3</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-4.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 4</a>
+                            <a href="task/part-2/excercise-4.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 4</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-5.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 5</a>
+                            <a href="task/part-2/excercise-5.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 5</a>
                         </div>
                         <div class="py-1 px-5">
-                            <a href="task/part2/excercise-6.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 6</a>
+                            <a href="task/part-2/excercise-6.php" class="fw-normal fs-5 text-decoration-none text-secondary">Excercise 6</a>
                         </div>
                     </div>
                 </div>
